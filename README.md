@@ -1,1 +1,2 @@
-# Code-Challenges-Algos-Interviews-Cool-Solutions
+# algorithms
+A collection of algorithms in Python and Javascript
